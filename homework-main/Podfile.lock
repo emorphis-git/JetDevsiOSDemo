@@ -1,0 +1,50 @@
+PODS:
+  - Alamofire (5.6.3)
+  - Kingfisher (7.1.0)
+  - PromisedFuture (1.0.2)
+  - ReachabilitySwift (5.0.0)
+  - RxCocoa (5.1.3):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.3):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.3)
+  - SnapKit (5.0.1)
+  - SwiftLint (0.50.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - PromisedFuture
+  - ReachabilitySwift
+  - RxCocoa
+  - RxSwift (~> 5.1.0)
+  - SnapKit
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - PromisedFuture
+    - ReachabilitySwift
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: 8b7a946e9db6f76e93eaa0d4c84e3751633959c9
+  Kingfisher: cdabaf49be7ee7cc124f0f276b355edf61903cf8
+  PromisedFuture: 15ab3542f9d9c9d62886e2228c606a3e0fd16ccd
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  RxCocoa: e2ed092d5432e4296aa818021d27de4090ac0354
+  RxRelay: 5a18c2eb2d68326ebaf0112f80d837ae41b92b97
+  RxSwift: 915abbdfb62214aa89ccd0b194d44fb478019b27
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftLint: 9cbf846727f3312f3ba722f2d7108a162cd050a5
+
+PODFILE CHECKSUM: 18ef55d9d15ca8c51fc98cea96d41f818e30e515
+
+COCOAPODS: 1.11.3
